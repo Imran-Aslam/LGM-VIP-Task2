@@ -1,0 +1,19 @@
+.App {
+    text-align: center;
+}
+
+.welcome {
+    padding-top: 5%;
+}
+
+.para {
+    padding-left: 5%;
+}
+
+.bar {
+    padding: 2% 5%;
+}
+
+.btn-outline-warning:hover {
+    color: white !important;
+}
